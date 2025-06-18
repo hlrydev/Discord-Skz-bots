@@ -164,15 +164,6 @@ async def on_message(message):
 
     if message.content.startswith('FEFI'):
         await message.channel.send('REOWREOWREOWREOWREOWREOWREOWREOWREOW')
-
-    if message.content.startswith('Junseon'):
-        await message.channel.send('Meowjun!')
-    
-    if message.content.startswith('Lijun'):
-        await message.channel.send('Meowjun!')
-
-    if message.content.startswith('Jun'):
-        await message.channel.send('Meowjun!')
     
     if message.content.startswith('Han'):
         await message.channel.send('Quokka')
@@ -203,9 +194,6 @@ async def on_message(message):
 
     if message.content.startswith('Changbin'):
         await message.channel.send('Puerquito')
-
-    if message.content.startswith('Sunhi'):
-        await message.channel.send('niña')
 
     await bot.process_commands(message)
 
