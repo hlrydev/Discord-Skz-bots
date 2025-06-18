@@ -103,9 +103,6 @@ async def on_message(message):
 
     if message.content.startswith('Lee Know'):
         await message.channel.send('Minho hyung')
-
-    if message.content.startswith('Sunhi'):
-        await message.channel.send('Noona! Secame las patitas')
     
     if message.content.startswith('I hope your behavior is not ugh.'):
         await message.channel.send('Hyunjin-')
