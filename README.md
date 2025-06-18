@@ -54,7 +54,9 @@ The bots can interact with each other, creating entertaining conversations that 
 
 ## IMPORTANT NOTE
 
-*This project dates back to 2021 and represents an exploration of Python programming and Discord bot development. While I'm not actively working with Python currently, I can explain the core logic and concepts implemented in these bots. The project demonstrates understanding of event-driven programming, API integration, and user interaction design.*
+*This project dates back to 2021 and represents an exploration of Python programming and Discord bot development. While I'm not actively working with Python currently, I can explain the core logic and concepts implemented in these bots. The project demonstrates understanding of event-driven programming, API integration, and user interaction design.* 
+
+Bot tokens are not currently working due to the project being public.
 
 
 Created by **Hillary C.**
