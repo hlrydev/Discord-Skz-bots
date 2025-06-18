@@ -1,6 +1,6 @@
 # Discord Bots Collection: Quokkabot, Llamabot & Chickbot
 
-A trio of funny interactive Python-based Discord bots inspired by Stray Kids members. Each bot captures the personality and charm of Han, Hyunjin, and Felix through their animal-themed personas, designed to engage users through various commands, games, and entertainment features.
+A trio of funny, interactive Python-based Discord bots inspired by Stray Kids members. Each bot captures the personality and charm of Han, Hyunjin, and Felix through their animal-themed personas, designed to engage users through various commands, games, and entertainment features.
 
 ## The Bots
 
@@ -22,7 +22,7 @@ The sunshine bot with Felix's warm, cheerful personality and deep voice charm in
 - **Real-time Responses** - Event-driven programming for instant reactions
 - **Modular Design** - Clean, organized code structure
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **Python** - Core programming language
 - **Discord.py** - Discord API wrapper
@@ -30,7 +30,7 @@ The sunshine bot with Felix's warm, cheerful personality and deep voice charm in
 - **API Integration** - External services for enhanced functionality
 - **Modular Architecture** - Organized command structure
 
-## 🎮 Commands & Games
+## Commands & Games
 
 ### Magic 8-Ball
 ```
