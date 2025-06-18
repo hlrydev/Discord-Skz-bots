@@ -135,9 +135,6 @@ async def on_message(message):
     
     if message.content.startswith('ANSWER'):
         await message.channel.send('I AM TRYING')
-    
-    if message.content.startswith('Sunhi'):
-        await message.channel.send('Doll!')
 
     if message.content.startswith('How are you?'):
         await message.channel.send('Am doing awesome. And you?')
@@ -151,7 +148,7 @@ async def on_message(message):
     if message.content.startswith('Americano'):
         await message.channel.send('Americano, chowa chowa')
 
-    if message.content.startswith('Fuck'):
+    if message.content.startswith('Darn it'):
         await message.channel.send('YOUR BEHAVIOR IS SO *UGH*')
 
     if message.content.startswith('Bangchan'):
